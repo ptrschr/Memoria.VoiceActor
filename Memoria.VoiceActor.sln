@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoria.VoiceActor", "Memoria.VoiceActor\Memoria.VoiceActor.csproj", "{EE1F61F3-3592-489D-8D35-321FD609DAFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoria.VoiceActor", "Memoria.VoiceActor\Memoria.VoiceActor.csproj", "{49ECCFB1-AC64-44F2-B76D-1519341816C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE1F61F3-3592-489D-8D35-321FD609DAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE1F61F3-3592-489D-8D35-321FD609DAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE1F61F3-3592-489D-8D35-321FD609DAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE1F61F3-3592-489D-8D35-321FD609DAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49ECCFB1-AC64-44F2-B76D-1519341816C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49ECCFB1-AC64-44F2-B76D-1519341816C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49ECCFB1-AC64-44F2-B76D-1519341816C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49ECCFB1-AC64-44F2-B76D-1519341816C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
