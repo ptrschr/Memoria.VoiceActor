@@ -33,5 +33,16 @@ namespace Memoria.VoiceActor
                 }
             };
         }
+
+        internal static IEnumerable<CharacterConfiguration> ReadCharacterConfiguration()
+        {
+            return new List<CharacterConfiguration>
+            {
+                new CharacterConfiguration
+                {
+                    Name = "Zidane"
+                }
+            };
+        }
     }
 }

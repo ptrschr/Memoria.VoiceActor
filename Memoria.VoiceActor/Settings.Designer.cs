@@ -82,5 +82,14 @@ namespace Memoria.VoiceActor {
                 this["ApiConfiguration"] = value;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("AvailableVoices.json")]
+        public string AvailableVoicesPath {
+            get {
+                return ((string)(this["AvailableVoicesPath"]));
+            }
+        }
     }
 }
